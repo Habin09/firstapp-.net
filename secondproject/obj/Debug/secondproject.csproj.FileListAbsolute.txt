@@ -1,0 +1,14 @@
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\bin\Debug\secondproject.exe.config
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\bin\Debug\secondproject.exe
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\bin\Debug\secondproject.pdb
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.csproj.AssemblyReference.cache
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.Form1.resources
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.Properties.Resources.resources
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.csproj.GenerateResource.cache
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.csproj.CoreCompileInputs.cache
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.exe
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.pdb
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.exe.config
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.FrmText.resources
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.Form2.resources
+C:\Users\Habinan\OneDrive\Desktop\C#\secondproject\obj\Debug\secondproject.Form3.resources
